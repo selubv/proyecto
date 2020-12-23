@@ -1,2 +1,2 @@
 # proyecto
-proyecto de sociopolitico
+proyecto de Psicologia Sistemica
